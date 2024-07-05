@@ -16,3 +16,6 @@ If you are using **Colab**:
 
 If you are running in **local**:
 * 
+
+
+The file `build_csv.ipynb` is not needed for running this notebook.

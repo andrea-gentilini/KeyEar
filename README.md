@@ -11,7 +11,7 @@ If you are using **Colab**:
     * the dir `sounds`
     * the notebook
  
-* Now, simply run the notebook following the first setup steps.
+* Now, simply run the notebook following the first setup steps. Make sure to use GPU for faster training.
 
 
 If you are running in **local**:
@@ -19,3 +19,4 @@ If you are running in **local**:
 
 
 The file `build_csv.ipynb` is not needed for running this notebook.
+

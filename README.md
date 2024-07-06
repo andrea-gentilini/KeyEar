@@ -5,7 +5,7 @@
 ----------------------------
 ## How to run the project
 
-* If you are running **locally**:
+* If you are running **locally** (recommended):
    1. Clone the repository.
    2. Create a virtual environment.
    3. Install in the venv all the packages listed in `requirements.txt`.

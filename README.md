@@ -23,5 +23,5 @@
    3. Run the notebook, following the initial setup steps (adjust paths and run colab-specific cells).
 
 ㅤ
-➡️ The file `build_csv.ipynb` is unnecessary for running this notebook. 
+➡️ The file `build_csv.ipynb` has been added just for completeness and is not necessary for running the main notebook.
 
